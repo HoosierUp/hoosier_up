@@ -1,0 +1,13 @@
+TalentLMS key:
+8YukwcuAeiTEbd3C1a5AGkb9hcpgz2
+
+Formstack:
+Key is not required
+
+Eventbrite:
+Key is not required
+
+BigCommerce:
+API PATH: https://api.bigcommerce.com/stores/h6yzc3f46x/v3/
+ACCESS TOKEN: 6yjn11td1oj5uhcgc5bwl4cnu4xaxrd
+CLIENT ID: ep0d8nwu8v1iisunin96p9otxk0p2nx
