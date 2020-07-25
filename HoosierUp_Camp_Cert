@@ -1,0 +1,35 @@
+<br/><br/><br/><br/><br/><br/><br/>
+<div style="text-align:center;">
+<span style="font-size:18pt;">{organization}</span>
+<br/><br/><br/><br/>
+<span style="font-weight:bold; font-size:27pt;">Virtual Fitness Camp Participant</span>
+<br/><br/><br/>
+<span style="font-size:16pt;">This certification is awarded to</span>
+<br/><br/><br/>
+<span style="font-weight:bold; font-size:20pt;">{first_name} {last_name}</span>
+<br/><br/><br/>
+<span style="font-size:16pt;">For successfully completing the course</span>
+<br/><br/><br/>
+<span style="font-weight:bold; font-size:20pt;">{course}</span>
+</div>
+<br/><br/><br/><br/>
+<table width="100%" cellpadding="2">
+<tr>
+<td width="35.8%"></td>
+<td width="28%" align="center">
+<div style="border-bottom: 1px solid #000000; font-weight:bold;">{issued_date}</div>
+</td>
+<td width="14%"></td>
+<td width="50%" align="center">
+
+</td>
+<td width="15%"></td>
+</tr>
+<tr>
+<td width="35.8%"></td>
+<td width="28%" align="center">Issued Date</td>
+<td width="14%"></td>
+
+<td width="15%"></td>
+</tr>
+</table>
